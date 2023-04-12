@@ -1,9 +1,8 @@
-
-
 function App() {
   return (
     <div className="App">
-      Modern testing
+      <p>Modern testing</p>
+      <button>Button</button>
     </div>
   );
 }
